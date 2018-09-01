@@ -42,3 +42,20 @@
 三.XDebug 远程调试漏洞（代码执行）复现
 
 参考[https://github.com/FarFromBeing/vulhub/tree/master/php/xdebug-rce](https://github.com/FarFromBeing/vulhub/tree/master/php/xdebug-rce)
+
+----------
+
+-*20180901*
+
+一.对XSS，CSRF有了新的理解
+对于结果来说都是通过cookie来搞事
+
+
+
+- XSS是利用攻击的方式完成入侵，比如存储型的，长期控制式的入侵。
+
+
+- CSRF是“借刀干活”，只是通过盗用一个合法身份的角色认证，去完成这个角色能干的事。
+
+二.htaccess文件
+Apache的配置总文件，存放于服务器的目录中，运行时会被加载，执行其中的设置。
