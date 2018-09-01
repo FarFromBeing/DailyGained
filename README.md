@@ -59,3 +59,17 @@
 
 二.htaccess文件
 Apache的配置总文件，存放于服务器的目录中，运行时会被加载，执行其中的设置。
+
+
+三.CTF日常
+
+
+
+1. php的敏感信息泄露形式
+例如：user.php.bak
+
+1. 通过提示构建爆破字段，使用battering ram选项进行爆破
+介绍：攻城锤模式（Battering ram）——它使用单一的Payload集合，依次替换Payload位置上被§标志的文本（而没有被§标志的文本将不受影响），对服务器端进行请求，与sniper模式的区别在于，如果有多个参数且都为Payload位置标志时，使用的Payload值是相同的，而sniper模式只能使用一个Payload位置标志。
+
+1. 文件上传，可以尝试的格式：
+.php .php3 .php4 .php5 .pht .phtml等
