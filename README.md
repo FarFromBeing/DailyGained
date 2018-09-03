@@ -73,3 +73,15 @@ Apache的配置总文件，存放于服务器的目录中，运行时会被加�
 
 1. 文件上传，可以尝试的格式：
 .php .php3 .php4 .php5 .pht .phtml等
+
+----------
+-*20180901*
+
+一.对序列化和反序列化有了初步了解。
+见[https://github.com/FarFromBeing/Python/tree/master/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/pickling](https://github.com/FarFromBeing/Python/tree/master/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/pickling)
+
+二.CDN
+
+内容分发网络，将用户的请求定向到最合适的缓存服务器上去获取内容，就近取材。
+[图片来源](https://www.zhihu.com/question/36514327?rf=37353035 "图片来源")
+![](https://i.imgur.com/wFVEJou.png)
