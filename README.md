@@ -1,14 +1,16 @@
 # DailyGained
 每天记录一下收获的新知识
 
--*20180831*
+
+
+## *20180831*
 
 一.DBGP协议
 
 
 
+1.   用途：用于调试应用程序的一种协议。
 
--  用途：用于调试应用程序的一种协议。
 2. 对象：调试器引擎（就是你正在调试的语言引擎，如python解释器）和调试器IDE之间的通信。
 3. 端口：IDE监听端口9000。
 
@@ -21,7 +23,7 @@
 - 调试步骤：
 
     服务器(Httpd服务器，PHP后端引擎，PHP配置好的Xdebug）
- 
+
     调试者（IDE+Xdebug插件，浏览器）
 
     1. 调试者开启IDE的插件，监听9000端口
@@ -43,9 +45,9 @@
 
 参考[https://github.com/FarFromBeing/vulhub/tree/master/php/xdebug-rce](https://github.com/FarFromBeing/vulhub/tree/master/php/xdebug-rce)
 
-----------
 
--*20180901*
+
+## *20180901*
 
 一.对XSS，CSRF有了新的理解
 对于结果来说都是通过cookie来搞事
@@ -74,8 +76,7 @@ Apache的配置总文件，存放于服务器的目录中，运行时会被加�
 1. 文件上传，可以尝试的格式：
 .php .php3 .php4 .php5 .pht .phtml等
 
-----------
--*20180901*
+*20180902*
 
 一.对序列化和反序列化有了初步了解。
 见[https://github.com/FarFromBeing/Python/tree/master/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/pickling](https://github.com/FarFromBeing/Python/tree/master/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/pickling)
@@ -92,11 +93,12 @@ Apache的配置总文件，存放于服务器的目录中，运行时会被加�
 
     应用程序解析 XML 输入时，没有禁止外部实体的加载。
 2. 漏洞产生点
-    
+   
     可以上传xml 文件的地方。
 
-----------
--*20180904*
+
+
+## 20180904
 
 一.在Ichunqiu上完成的一次综合网站渗透
 
@@ -131,6 +133,15 @@ Apache的配置总文件，存放于服务器的目录中，运行时会被加�
 可能会出现版本的注释信息
 2.在第一步基础上，将一些没有显示的Disallow选项代入搜索
 3.看源码，或许有注释
+四.收集服务器信息命令
 
-四.提权
-...
+- 查看下载补丁：
+
+   `wmic qfe get Caption,Description,HotFixID,InstalledOn`
+
+
+
+## 20180905
+
+一.提权
+
