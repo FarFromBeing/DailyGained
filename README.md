@@ -37,9 +37,9 @@
     
     参考
 
-       [https://my.oschina.net/atanl/blog/371424](https://my.oschina.net/atanl/blog/371424)
+       [https://my.oschina.net/atanl/blog/371424]
 
-       [http://phonegap.me/post/27.html](http://phonegap.me/post/27.html)
+       [http://phonegap.me/post/27.html]
 
 三.**XDebug 远程调试漏洞（代码执行）复现**
 
