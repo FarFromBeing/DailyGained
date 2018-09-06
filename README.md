@@ -83,6 +83,7 @@ Apache的配置总文件，存放于服务器的目录中，运行时会被加�
 *20180902*
 
 一.**对序列化和反序列化有了初步了解**
+
 见[https://github.com/FarFromBeing/Python/tree/master/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/pickling](https://github.com/FarFromBeing/Python/tree/master/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/pickling)
 
 二.**CDN**
