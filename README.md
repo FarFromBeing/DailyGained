@@ -32,9 +32,8 @@
 
 [20180917-网络协议](https://github.com/FarFromBeing/DailyGained/blob/master/20180917-%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE/%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE.md)
 
-
+[20180924-Web整理](https://github.com/FarFromBeing/DailyGained/blob/master/20180924-Web%E6%95%B4%E7%90%86/Web%E6%95%B4%E7%90%86.md)
  
 [20180928-TensorFlow](https://github.com/FarFromBeing/DailyGained/blob/master/20180928-TensorFlow/%E5%88%9D%E8%AF%86%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.md)
 
 
-[20180924-Web整理](https://github.com/FarFromBeing/DailyGained/blob/master/20180924-Web%E6%95%B4%E7%90%86/Web%E6%95%B4%E7%90%86.md)
