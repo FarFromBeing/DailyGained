@@ -3,7 +3,7 @@
 
 
 
-[XDebug相关](https://github.com/FarFromBeing/DailyGained/blob/master/20180831-XDebug%E7%9B%B8%E5%85%B3/XDebug%E7%9B%B8%E5%85%B3.md)
+[XDebug](https://github.com/FarFromBeing/DailyGained/blob/master/20180831-XDebug%E7%9B%B8%E5%85%B3/XDebug%E7%9B%B8%E5%85%B3.md)
 
 
 
@@ -18,7 +18,7 @@
 
 
 
-[ichunqiu经历](https://github.com/FarFromBeing/DailyGained/blob/master/20180904-ichunqiu%E7%BB%8F%E5%8E%86/ichunqiu%E7%BB%8F%E5%8E%86.md)
+[ichunqiu](https://github.com/FarFromBeing/DailyGained/blob/master/20180904-ichunqiu%E7%BB%8F%E5%8E%86/ichunqiu%E7%BB%8F%E5%8E%86.md)
 
 
 
