@@ -1,6 +1,4 @@
 import tensorflow as tf
-import os
-os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 '''
 Session 是 Tensorflow 为了控制,和输出文件的执行的语句
 '''
@@ -9,7 +7,7 @@ mat2=tf.constant([[3],[2]])
 
 product=tf.matmul(mat1,mat2)#两个矩阵相乘
 '''
-product并无法执行，只能通过session的一个对象来run，才能运行
+product无法执行，只能通过session的一个对象来run，才能运行
 2种运行tf.Session()方式
 '''
 #1.
